@@ -1,2 +1,4 @@
-file_ids: []
+file_ids:
+- note-1.txt
+- note-2.txt
 version: "1"
